@@ -1,4 +1,10 @@
-### Seja Bem-vino(a)! Prazer, sou Paulo Germano.
+# Hello, Friend! 👨‍💻
+<div> 
+  <a href = "mailto:paulogermano.person@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-germano-pg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 - 🔭 Atualmente desenvolvendo para dispositivos móveis e front-end para plataformas web;
 - 🌱 Como também me dedicando ao React-Native, mas sempre buscando novas ferramentas;
@@ -19,14 +25,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
-  
-##
-  
-<div> 
-  <a href="https://play.google.com/store/apps/developer?id=PauloGermano" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
- <a href="https://gitlab.com/paulogermanopg" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:paulogermano.123pgcopia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-germano-pg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 
