@@ -28,7 +28,7 @@ Seguindo sempre as quatro transformações do ser: Realização, Potencializaç�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogermanopg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+![snake gif](https://github.com/paulogermanopg/paulogermanopg/blob/output/github-contribution-grid-snake.svg)
 
 
 
