@@ -24,7 +24,7 @@ Seguindo sempre as quatro transformações do ser: Realização, Potencializaç�
 - 🎓 Bacharel em Sistemas de Informação;
 
 <div>
-  <a href="https://github.com/paulogermanopg">
+  <a href="https://github.com/paulogermanopg/paulogermanopg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogermanopg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
