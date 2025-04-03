@@ -1,10 +1,18 @@
 # Hello, Friend! 👨‍💻
 Onde estou:
 <div> 
-  <a href = "mailto:paulogermano.person@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-germano-pg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.amazon.com.br/stores/author/B0DPL6TW2L?ingress=0&visitId=ee71fbd9-df32-4b64-bb1b-09dffd317b7c&ref_=ap_rdr" target="_blank"><img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@PGDEV404" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
+  <a href="mailto:paulogermano.person@outlook.com.br">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-germano-pg/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.amazon.com.br/stores/author/B0DPL6TW2L?ingress=0&visitId=ee71fbd9-df32-4b64-bb1b-09dffd317b7c&ref_=ap_rdr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@PGDEV404" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
 </div>
 
 ## Me chamo Paulo Germano
